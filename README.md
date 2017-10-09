@@ -5,7 +5,7 @@ Este programa de permite validar que el número ingresado de tarjeta sea válido
 
 
  
-La palabra ingresada en la caja de texto no  debe :
+El número ingresado en la caja de texto no  debe :
 1. Ser de longitud diferente a16
 2. Contener algun digito diferente a un número
 
