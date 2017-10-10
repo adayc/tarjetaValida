@@ -1,6 +1,6 @@
 Algoritmo de Luhn
 ____________________________
-Este programa de permite validar que el número ingresado de tarjeta sea válido
+Este programa te permite validar que el número ingresado de tarjeta sea válido
 
  
 
