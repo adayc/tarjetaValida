@@ -8,7 +8,7 @@ Este programa de permite validar que el número ingresado de tarjeta sea válido
  
 El número ingresado en la caja de texto  debe :
 1. Ser de longitud igual a 16
-2. Contener solo números sin espacios ni letras.
+2. Contener solo números sin espacios ni letras ni carácteres especiales.
 
 Presentamos el diagrama de flujo:
 ![recursos](assets/docs/diagramaDeFlujo.jpg)
